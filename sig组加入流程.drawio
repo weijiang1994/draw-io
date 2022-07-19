@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T07:12:37.516Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="Ylo3YAQ0ZrTnmUbajxu5" type="github"><diagram id="YEzc-LO8XUmdd_fbW7GZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-19T07:23:58.778Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="H31wWEXIzzlZTabpyyMI" version="20.1.1" type="github">
+  <diagram id="YEzc-LO8XUmdd_fbW7GZ" name="第 1 页">
+    <mxGraphModel dx="1422" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curved=1;" edge="1" parent="1" source="x8HtMeayh1GEYdJq-MLa-1" target="x8HtMeayh1GEYdJq-MLa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-1" value="Fork community仓库到个人gitee账号" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curved=1;" edge="1" parent="1" source="x8HtMeayh1GEYdJq-MLa-2" target="x8HtMeayh1GEYdJq-MLa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-2" value="根据模式修改sig.yml文件" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curved=1;" edge="1" parent="1" source="x8HtMeayh1GEYdJq-MLa-3" target="x8HtMeayh1GEYdJq-MLa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-3" value="提交PR给openKylin/community仓库" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curved=1;" edge="1" parent="1" source="x8HtMeayh1GEYdJq-MLa-4" target="x8HtMeayh1GEYdJq-MLa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-4" value="等待SIG owner审核" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curved=1;" edge="1" parent="1" source="x8HtMeayh1GEYdJq-MLa-5" target="x8HtMeayh1GEYdJq-MLa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-5" value="审核通过" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8HtMeayh1GEYdJq-MLa-6" value="SIG加入完成" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
