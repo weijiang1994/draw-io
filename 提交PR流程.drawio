@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T08:01:50.789Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="byCtz8loVwzLFA2WxrFe" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T01:42:15.766Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wAQQ-3g6ARTKqrdwC0xk" version="20.1.1" type="github">
   <diagram id="EUVG-VbLJ_KNzvjiV4Ez" name="第 1 页">
     <mxGraphModel dx="1422" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,13 +31,13 @@
         <mxCell id="yFLMfkRXcdrX8CuSGvPF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curved=1;" parent="1" source="yFLMfkRXcdrX8CuSGvPF-5" target="yFLMfkRXcdrX8CuSGvPF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFLMfkRXcdrX8CuSGvPF-5" value="仓库管理员审查PR" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="yFLMfkRXcdrX8CuSGvPF-5" value="触发CI流程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yFLMfkRXcdrX8CuSGvPF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curved=1;" parent="1" source="yFLMfkRXcdrX8CuSGvPF-6" target="yFLMfkRXcdrX8CuSGvPF-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFLMfkRXcdrX8CuSGvPF-6" value="触发CI流程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="yFLMfkRXcdrX8CuSGvPF-6" value="自动添加CI处理结果" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yFLMfkRXcdrX8CuSGvPF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curved=1;" parent="1" source="yFLMfkRXcdrX8CuSGvPF-7" target="yFLMfkRXcdrX8CuSGvPF-5" edge="1">
@@ -49,7 +49,7 @@
         <mxCell id="yFLMfkRXcdrX8CuSGvPF-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yFLMfkRXcdrX8CuSGvPF-8" target="yFLMfkRXcdrX8CuSGvPF-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFLMfkRXcdrX8CuSGvPF-8" value="自动添加CI处理结果" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="yFLMfkRXcdrX8CuSGvPF-8" value="仓库管理员审查PR" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yFLMfkRXcdrX8CuSGvPF-18" value="" style="group" parent="1" vertex="1" connectable="0">
