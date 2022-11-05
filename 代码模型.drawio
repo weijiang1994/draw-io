@@ -1,25 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T02:25:22.253Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="M0F467nL6DjuYHZX7Thg" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T02:27:06.863Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TzCu6nzcGgQs5EBL9miK" version="20.5.1" type="github">
   <diagram id="tcuDvTMzK8ZG18OZix4C" name="第 1 页">
     <mxGraphModel dx="1422" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zitNx3p23CodK6oafo9O-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="264" y="90" width="300" height="220" as="geometry" />
+        <mxCell id="zitNx3p23CodK6oafo9O-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="264" y="90" width="300" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="zitNx3p23CodK6oafo9O-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-8">
-          <mxGeometry width="300" height="220" as="geometry" />
+        <mxCell id="zitNx3p23CodK6oafo9O-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-11">
+          <mxGeometry width="300" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="zitNx3p23CodK6oafo9O-1" value="用户Web界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-8">
+        <mxCell id="zitNx3p23CodK6oafo9O-9" value="第三方开源库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-11">
+          <mxGeometry x="20" y="230" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zitNx3p23CodK6oafo9O-1" value="用户Web界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-11">
           <mxGeometry x="20" y="30" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zitNx3p23CodK6oafo9O-2" value="后端服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-8">
+        <mxCell id="zitNx3p23CodK6oafo9O-2" value="后端服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-11">
           <mxGeometry x="20" y="100" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zitNx3p23CodK6oafo9O-4" value="接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-8">
+        <mxCell id="zitNx3p23CodK6oafo9O-4" value="接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-11">
           <mxGeometry x="20" y="170" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zitNx3p23CodK6oafo9O-5" value="后台任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-8">
+        <mxCell id="zitNx3p23CodK6oafo9O-5" value="后台任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zitNx3p23CodK6oafo9O-11">
           <mxGeometry x="170" y="170" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
