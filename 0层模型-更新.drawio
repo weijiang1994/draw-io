@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T01:56:43.187Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.2" etag="51LXeztStNeM1Uu9EYYB" type="github"><diagram id="-_CPmqMp-y4IMtMcE9Gs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-25T01:59:58.068Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4X2d9epChoTu09ZZoNd8" version="20.5.2" type="github">
+  <diagram id="-_CPmqMp-y4IMtMcE9Gs" name="第 1 页">
+    <mxGraphModel dx="1422" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UAWzpZCx1EKJVWXIIInX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="430" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="UAWzpZCx1EKJVWXIIInX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UAWzpZCx1EKJVWXIIInX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UAWzpZCx1EKJVWXIIInX-1" value="Web服务模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UAWzpZCx1EKJVWXIIInX-2" value="用户认证模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UAWzpZCx1EKJVWXIIInX-3" value="后台业务模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UAWzpZCx1EKJVWXIIInX-4" value="后台数据模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UAWzpZCx1EKJVWXIIInX-6" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAWzpZCx1EKJVWXIIInX-8" value="服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAWzpZCx1EKJVWXIIInX-10" value="openKylin社区数字看板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
