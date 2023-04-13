@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T08:04:09.569Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vzb9zdrFXkLz_0bJYlqA" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T08:04:55.871Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6j6ieVztv1qP2onAgz7n" version="21.1.1" type="github">
   <diagram name="第 1 页" id="V5MGT1LcOvTkD2tV80Dg">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,13 +40,13 @@
         <mxCell id="3_5TaPdsEMKno9aYDD3o-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3_5TaPdsEMKno9aYDD3o-16">
           <mxGeometry width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3_5TaPdsEMKno9aYDD3o-18" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3_5TaPdsEMKno9aYDD3o-16">
+        <mxCell id="3_5TaPdsEMKno9aYDD3o-18" value="异步队列任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3_5TaPdsEMKno9aYDD3o-16">
           <mxGeometry x="20" y="77.5" width="65" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="3_5TaPdsEMKno9aYDD3o-19" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3_5TaPdsEMKno9aYDD3o-16">
           <mxGeometry x="85" y="77.5" width="65" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="3_5TaPdsEMKno9aYDD3o-20" value="lp定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3_5TaPdsEMKno9aYDD3o-16">
+        <mxCell id="3_5TaPdsEMKno9aYDD3o-20" value="LP定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3_5TaPdsEMKno9aYDD3o-16">
           <mxGeometry x="20" y="35" width="65" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="3_5TaPdsEMKno9aYDD3o-21" value="gitlab2定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3_5TaPdsEMKno9aYDD3o-16">
