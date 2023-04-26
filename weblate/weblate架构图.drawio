@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T06:27:05.994Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2yHj8_P4PDtcJV67xWFe" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T06:29:23.762Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lU5oY8R16GZ748CkS0Yl" version="21.1.7" type="github">
   <diagram name="第 1 页" id="mY92OgvAY6bPNSYlvnZm">
-    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,6 +320,24 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1088.5" y="700" as="sourcePoint" />
             <mxPoint x="1088.5" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7gMvqDGJIj3QbsYjjSzZ-169" value="接&lt;br&gt;入&lt;br&gt;层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#7EA6E0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7gMvqDGJIj3QbsYjjSzZ-170" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="240" width="1075" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7gMvqDGJIj3QbsYjjSzZ-171" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#E6E6E6;" vertex="1" parent="7gMvqDGJIj3QbsYjjSzZ-170">
+          <mxGeometry width="1075" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7gMvqDGJIj3QbsYjjSzZ-214" value="统一登录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#93CEFB;strokeColor=none;" vertex="1" parent="7gMvqDGJIj3QbsYjjSzZ-170">
+          <mxGeometry x="20" y="14" width="1030" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7gMvqDGJIj3QbsYjjSzZ-215" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=10;endSize=4.33;startWidth=10;startSize=4.33;fillColor=#0085F8;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="646.16" y="338" as="sourcePoint" />
+            <mxPoint x="646.16" y="298" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
