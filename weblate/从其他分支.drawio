@@ -1,9 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T10:50:13.040Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.2.2" etag="wiheBQ0y54TSq0jRa7pb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T10:53:17.351Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BKPNriQrJ7wfQbaDzy9q" version="21.2.2" type="github">
   <diagram name="第 1 页" id="HzpDwZgkD4cKKgL7KSd_">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="WH7NgwSg9BBk56VP6fnk-11" target="WH7NgwSg9BBk56VP6fnk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-11" value="选择已有部件分支，提交部件信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-12" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="WH7NgwSg9BBk56VP6fnk-14">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-13" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="WH7NgwSg9BBk56VP6fnk-14" target="WH7NgwSg9BBk56VP6fnk-16">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-14" value="部件名存在？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WH7NgwSg9BBk56VP6fnk-16" target="WH7NgwSg9BBk56VP6fnk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-16" value="提示部件名重复" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="WH7NgwSg9BBk56VP6fnk-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-18" value="选择翻译源文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WH7NgwSg9BBk56VP6fnk-20" target="WH7NgwSg9BBk56VP6fnk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-20" value="填写翻译部件信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WH7NgwSg9BBk56VP6fnk-22" target="WH7NgwSg9BBk56VP6fnk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-22" value="Celery拉取仓库所选分支到本地" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WH7NgwSg9BBk56VP6fnk-23" value="完成新的部件创建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
