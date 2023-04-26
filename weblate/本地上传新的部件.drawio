@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T11:03:37.495Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FyTSHxeV2aswWahSDnig" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T11:18:47.856Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ev3Wi45ye6UsM1d4J6sz" version="21.2.2" type="github">
   <diagram name="第 1 页" id="WNmO6rOC3a4mSjJoMNMk">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,6 +101,90 @@
         </mxCell>
         <mxCell id="DmBymuOzk8bXmX3khSrd-28" value="完成新的部件创建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-29" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-30" target="DmBymuOzk8bXmX3khSrd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-30" value="选择需要支持翻译文件格式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-31" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-33">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="140" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-32" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-33" target="DmBymuOzk8bXmX3khSrd-35">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-33" value="部件名存在？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-35" target="DmBymuOzk8bXmX3khSrd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-35" value="提示部件名重复" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-37" value="选择翻译源文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-39" target="DmBymuOzk8bXmX3khSrd-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-39" value="填写翻译部件信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-41" target="DmBymuOzk8bXmX3khSrd-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-41" value="本地基于上传文件创建一个新的git仓库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-42" value="完成新的部件创建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-43" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-44" target="DmBymuOzk8bXmX3khSrd-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-44" value="选择需要支持翻译文件格式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-45" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-47">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="510" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-46" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-47" target="DmBymuOzk8bXmX3khSrd-49">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-47" value="部件名存在？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="460" y="570" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-49" target="DmBymuOzk8bXmX3khSrd-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-49" value="提示部件名重复" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="590" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmBymuOzk8bXmX3khSrd-55" target="DmBymuOzk8bXmX3khSrd-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-55" value="本地基于上传文件创建一个新的git仓库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DmBymuOzk8bXmX3khSrd-56" value="完成新的部件创建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="750" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
