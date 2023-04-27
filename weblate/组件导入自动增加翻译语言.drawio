@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T02:18:29.021Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5dnm90DZqI53jalQD7zH" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T02:35:08.958Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="30YqZl3IyerkwwrgBrZC" version="21.2.2" type="github">
   <diagram name="第 1 页" id="W1zuH_3jcWXs_tn30wbK">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,43 +8,79 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-2" value="根据部件指定的模板文件解析翻译文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-3" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-5">
-          <mxGeometry y="20" relative="1" as="geometry">
+          <mxGeometry x="-0.5062" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="250" y="670" as="targetPoint" />
+            <mxPoint x="130" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-4" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-5" target="pldMa1flhjmEtCY-2DD7-13">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="440" y="690" as="targetPoint" />
+            <mxPoint x="320" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-5" value="存在翻译文件？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="200" y="550" width="100" height="80" as="geometry" />
+          <mxGeometry x="80" y="430" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-9" target="pldMa1flhjmEtCY-2DD7-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-9" value="遍历翻译文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="670" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-10" target="pldMa1flhjmEtCY-2DD7-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-10" value="新增翻译语言" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-11" target="pldMa1flhjmEtCY-2DD7-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-11" value="将翻译文件内容存储到数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="670" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pldMa1flhjmEtCY-2DD7-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-16" target="pldMa1flhjmEtCY-2DD7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-16" value="添加翻译语言列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-27" target="pldMa1flhjmEtCY-2DD7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-27" value="获取部件可用翻译语言列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-32" target="pldMa1flhjmEtCY-2DD7-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-32" value="遍历新增翻译语言列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-35" target="pldMa1flhjmEtCY-2DD7-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-35" target="pldMa1flhjmEtCY-2DD7-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-35" value="部件存在已有翻译内容？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="470" y="750" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pldMa1flhjmEtCY-2DD7-37" target="pldMa1flhjmEtCY-2DD7-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-37" value="保存新的翻译语言unit到数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pldMa1flhjmEtCY-2DD7-38" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="860" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
